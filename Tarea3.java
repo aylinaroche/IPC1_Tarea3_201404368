@@ -8,7 +8,7 @@ public class Tarea3 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ingrese un número");
+		System.out.println("Ingrese un numero");
 	int x=0;
 	
 	Scanner s = new Scanner(System.in);
@@ -16,9 +16,9 @@ public class Tarea3 {
 	
 		
 		if(x%2==0)
-			System.out.println("El número ingresado es PAR");
+			System.out.println("El numero ingresado es PAR");
 		else
-			System.out.println("El número ingresado es IMPAR");
+			System.out.println("El numero ingresado es IMPAR");
 			
 		
 
